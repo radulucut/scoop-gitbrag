@@ -1,26 +1,26 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_i386.zip",
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.2/gitbrag_Windows_i386.zip",
             "bin": [
                 "gitbrag.exe"
             ],
-            "hash": "f569b21107a12c34c1b1bfe7eef9bdf7195920c3017eb8e77226273488661b9b"
+            "hash": "028e42614c9290614e4edf04f2139cae1fa952edacb12b986965b49e21dbae02"
         },
         "64bit": {
-            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_x86_64.zip",
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.2/gitbrag_Windows_x86_64.zip",
             "bin": [
                 "gitbrag.exe"
             ],
-            "hash": "3d990b91011dc7921faec50f594fdbc1afbef31534c31c459733ae99b5f994f3"
+            "hash": "09a4a726e08cb0802f026bae9a3feaf00bfafe531762525f4199e184bda492a5"
         },
         "arm64": {
-            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_arm64.zip",
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.2/gitbrag_Windows_arm64.zip",
             "bin": [
                 "gitbrag.exe"
             ],
-            "hash": "9600ba068dbac97b3ca76a66792a9705c19584eb717b9fd198371eb6809f6953"
+            "hash": "8b2320f922237c18bff253e97f434ec58e541f398a6ecf44bc64393e0433d8ca"
         }
     },
     "homepage": "https://github.com/radulucut/gitbrag",
