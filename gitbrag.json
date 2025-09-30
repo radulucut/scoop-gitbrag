@@ -1,0 +1,28 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_i386.zip",
+            "bin": [
+                "gitbrag.exe"
+            ],
+            "hash": "f569b21107a12c34c1b1bfe7eef9bdf7195920c3017eb8e77226273488661b9b"
+        },
+        "64bit": {
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_x86_64.zip",
+            "bin": [
+                "gitbrag.exe"
+            ],
+            "hash": "3d990b91011dc7921faec50f594fdbc1afbef31534c31c459733ae99b5f994f3"
+        },
+        "arm64": {
+            "url": "https://github.com/radulucut/gitbrag/releases/download/v0.1.1/gitbrag_Windows_arm64.zip",
+            "bin": [
+                "gitbrag.exe"
+            ],
+            "hash": "9600ba068dbac97b3ca76a66792a9705c19584eb717b9fd198371eb6809f6953"
+        }
+    },
+    "homepage": "https://github.com/radulucut/gitbrag",
+    "description": "A terminal tool that outputs git stats for local git repositories"
+}
